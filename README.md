@@ -1,4 +1,5 @@
 # NetLP
 
 
-![NLP](https://github.com/lakshRP/NetLP/assets/91580291/a8740594-634d-41fb-ac35-e3e1b4c31af4)
+
+![NP](https://github.com/lakshRP/NetLP/assets/91580291/0a880021-bfe9-4070-85e6-8fcf06c115e6)
